@@ -107,7 +107,7 @@
 
   "kingsley": {
     "authInfo": {
-      "uuid": "HTZnQEuz9eh",
+      "uuid": "Jy2hvV3useG",
       "priority": "chow-usr-01",
       "username": "kingsley",
       "secureKey": "YXV0aD0weCxraW5nc2xleSxUeXJvbmpheTIwMjQ="
@@ -123,6 +123,48 @@
       "matricNo": "LCU/UG/19/19978",
       "emailAddr": "kolutekunbi@vulpeslabs.com",
       "nxtFunding": "Jun 06, 2024"
+    }
+  },
+
+  "jmadu": {
+    "authInfo": {
+      "uuid": "D1RWMCY",
+      "priority": "chow-usr-01",
+      "username": "jmadu",
+      "secureKey": "YXV0aD0weCxqbWFkdSxyYWdlMTAx"
+    },
+    "accVariables": {
+      "chowBalance": 0,
+      "pin": 1234
+    },
+    "accInfo": {
+      "firstName": "James",
+      "middleName": "Ugbono",
+      "lastName":"Madu",
+      "matricNo": "LCU/UG/21/16891",
+      "emailAddr": "jmadu@vulpeslabs.com",
+      "nxtFunding": "Jun 01, 2024"
+    }
+  },
+
+  "tony": {
+    "authInfo": {
+      "uuid": "3yczYx",
+      "priority": "chow-usr-01",
+      "username": "tony",
+      "secureKey": "YXV0aD0weCx0b255LDY2OTE="
+    },
+    "accVariables": {
+      "chowBalance": 0,
+      "pin": 1234
+    },
+    "accInfo": {
+      "firstName": "Tony",
+      "middleName": "Emmanuel",
+      "lastName":"Adeniyi",
+      "matricNo": "LCU/UG/22/20128",
+      "emailAddr": "tadeniyi@vulpeslabs.com",
+      "nxtFunding": "May 27, 2024"
     }
   }
 }
