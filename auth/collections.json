@@ -101,7 +101,7 @@
       "lastName":"Adebayo",
       "matricNo": "LCU/UG/21/19348",
       "emailAddr": "olajosh25@vulpeslabs.com",
-      "nxtFunding": "2024-06-03T00:00:00.000Z"
+      "nxtFunding": "Jun 14, 2024"
     }
   },
 
@@ -165,6 +165,27 @@
       "matricNo": "LCU/UG/22/20128",
       "emailAddr": "tadeniyi@vulpeslabs.com",
       "nxtFunding": "May 27, 2024"
+    }
+  },
+
+  "davidrich": {
+    "authInfo": {
+      "uuid": "2H7EaSpr7F7zw",
+      "priority": "chow-usr-01",
+      "username": "davidrich",
+      "secureKey": "YXV0aD0weCxkYXZpZHJpY2gsd2lsZGNhcmQ="
+    },
+    "accVariables": {
+      "chowBalance": 0,
+      "pin": 1234
+    },
+    "accInfo": {
+      "firstName": "David",
+      "middleName": "Richard",
+      "lastName":"Opkor",
+      "matricNo": "LCU/UG/21/19228",
+      "emailAddr": "dokpor@vulpeslabs.com",
+      "nxtFunding": "Jun 15, 2024"
     }
   }
 }
