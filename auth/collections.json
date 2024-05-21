@@ -84,6 +84,27 @@
     }
   },
 
+  "beekay12": {
+    "authInfo": {
+      "uuid": "HTZnQEuz9eh",
+      "priority": "chow-usr-01",
+      "username": "beekay12",
+      "secureKey": "YXV0aD0weCxiZWVrYXkxMixNZWRpYUFnYXRlNTYh"
+    },
+    "accVariables": {
+      "chowBalance": 0,
+      "pin": 1234
+    },
+    "accInfo": {
+      "firstName": "Olamide",
+      "middleName": "Joseph",
+      "lastName":"Adebayo",
+      "matricNo": "LCU/UG/21/19348",
+      "emailAddr": "olajosh25@vulpeslabs.com",
+      "nxtFunding": "Jun 14, 2024"
+    }
+  },
+
   "kingsley": {
     "authInfo": {
       "uuid": "Jy2hvV3useG",
