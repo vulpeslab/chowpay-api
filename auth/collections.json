@@ -42,48 +42,6 @@
     }
   },
 
-  "cnwoke": {
-    "authInfo": {
-      "uuid": "rWp4Cx8C",
-      "priority": "chow-usr-01",
-      "username": "cnwoke",
-      "secureKey": "YXV0aD0weCxjbndva2UsY2hvdzRtZQ=="
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "Cynthia",
-      "middleName": "Nneoma",
-      "lastName":"Nwoke",
-      "matricNo": "LCU/UG/22/19220",
-      "emailAddr": "cnwoke@vulpeslabs.com",
-      "nxtFunding": "Jun 08, 2024"
-    }
-  },
-
-  "oolagesin": {
-    "authInfo": {
-      "uuid": "2RGak1RrZcrR3",
-      "priority": "chow-usr-01",
-      "username": "oolagesin",
-      "secureKey": "YXV0aD0weCxvb2xhZ2VzaW4sc2FsZXNtYW4="
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "Oluwatobi",
-      "middleName": "Frederick",
-      "lastName":"Olagesin",
-      "matricNo": "LCU/UG/21/24686",
-      "emailAddr": "oolagesin@vulpeslabs.com",
-      "nxtFunding": "Jun 17, 2024"
-    }
-  },
-
   "beekay12": {
     "authInfo": {
       "uuid": "HTZnQEuz9eh",
@@ -102,90 +60,6 @@
       "matricNo": "LCU/UG/21/19348",
       "emailAddr": "olajosh25@vulpeslabs.com",
       "nxtFunding": "Jun 14, 2024"
-    }
-  },
-
-  "kingsley": {
-    "authInfo": {
-      "uuid": "Jy2hvV3useG",
-      "priority": "chow-usr-01",
-      "username": "kingsley",
-      "secureKey": "YXV0aD0weCxraW5nc2xleSxUeXJvbmpheTIwMjQ="
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "Kingsley",
-      "middleName": "Ugbono",
-      "lastName":"Olutekunbi",
-      "matricNo": "LCU/UG/19/19978",
-      "emailAddr": "kolutekunbi@vulpeslabs.com",
-      "nxtFunding": "Jun 06, 2024"
-    }
-  },
-
-  "jmadu": {
-    "authInfo": {
-      "uuid": "D1RWMCY",
-      "priority": "chow-usr-01",
-      "username": "jmadu",
-      "secureKey": "YXV0aD0weCxqbWFkdSxyYWdlMTAx"
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "James",
-      "middleName": "Ugbono",
-      "lastName":"Madu",
-      "matricNo": "LCU/UG/21/16891",
-      "emailAddr": "jmadu@vulpeslabs.com",
-      "nxtFunding": "Jun 01, 2024"
-    }
-  },
-
-  "tony": {
-    "authInfo": {
-      "uuid": "3yczYx",
-      "priority": "chow-usr-01",
-      "username": "tony",
-      "secureKey": "YXV0aD0weCx0b255LDY2OTE="
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "Tony",
-      "middleName": "Emmanuel",
-      "lastName":"Adeniyi",
-      "matricNo": "LCU/UG/22/20128",
-      "emailAddr": "tadeniyi@vulpeslabs.com",
-      "nxtFunding": "May 27, 2024"
-    }
-  },
-
-  "davidrich": {
-    "authInfo": {
-      "uuid": "2H7EaSpr7F7zw",
-      "priority": "chow-usr-01",
-      "username": "davidrich",
-      "secureKey": "YXV0aD0weCxkYXZpZHJpY2gsd2lsZGNhcmQ="
-    },
-    "accVariables": {
-      "chowBalance": 0,
-      "pin": 1234
-    },
-    "accInfo": {
-      "firstName": "David",
-      "middleName": "Richard",
-      "lastName":"Opkor",
-      "matricNo": "LCU/UG/21/19228",
-      "emailAddr": "dokpor@vulpeslabs.com",
-      "nxtFunding": "Jun 15, 2024"
     }
   }
 }
