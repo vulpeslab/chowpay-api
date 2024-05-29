@@ -126,6 +126,27 @@
     }
   },
 
+  "adedimeji": {
+    "authInfo": {
+      "uuid": "2EuGUTXgFhnzk",
+      "priority": "chow-usr-01",
+      "username": "adedimeji",
+      "secureKey": "YXV0aD0weCxhZGVkaW1lamksRG9saWtldGhhdDE="
+    },
+    "accVariables": {
+      "chowBalance": 0,
+      "pin": 1234
+    },
+    "accInfo": {
+      "firstName": "Adedamola",
+      "middleName": "Adedimeji",
+      "lastName":"Adesanya",
+      "matricNo": "LCU/UG/22/19218",
+      "emailAddr": "adedimeji@vulpeslabs.com",
+      "nxtFunding": "Jun 05, 2024"
+    }
+  },
+
   "beekay12": {
     "authInfo": {
       "uuid": "HTZnQEuz9eh",
